@@ -31,7 +31,7 @@ This program depends on multiple libraries for its functions. They are already i
 
 For the location part to work, you need to create an account with MaxMind to get access to the location database. You can create yourself one with this site [MaxMind](https://www.maxmind.com/en/home). In order to infiltrate the program in other computers, I've compiled it as a .jar program that looks like an update for Java, but on execution, there's nothing to be seen.
 
-The comments and the majority of this program are all in French but will be later on translated to English.
-
 ### Please note
-This software is for learning purposes only and was not created with the intent to harm others.
+* This software is for learning purposes only and was not created with the intent to harm others.
+* The comments and the majority of this program are all in French but will be later on translated to English.
+* This spyware is still in development and may not work as expected.
