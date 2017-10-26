@@ -1,5 +1,5 @@
 # spyware101
-Java spyware program that has a multitude of functionnality. Here is a list of them:
+Java spyware program that has a multitude of functionality. Here is a list of them:
 * Screen capture
 * Record audio from microphone
 * Webcam capture 
@@ -9,11 +9,11 @@ Java spyware program that has a multitude of functionnality. Here is a list of t
 * Get wifi passwords from the system
 * Get a list of programs installed
 * Activate a keylogger and receive its files
-* Get many browser's history
-These are a few of the functionnalities, you can have even more control by executing commands in the user's command prompt.
+* Get many browser's histories
+These are a few of the functionalities, you can have even more control by executing commands in the user's command prompt.
 
 ## Dependencies
-This program depends on multiple libraries for its functions. They are already included with the project.
+This program depends on multiple libraries for its functions. They are already included in this project.
 * [webcam-capture](https://github.com/sarxos/webcam-capture)
 * [MaxMind-DB-Reader-java 1.2.2](https://github.com/maxmind/MaxMind-DB-Reader-java)
 * [jnativehook 2.1.0](https://github.com/kwhat/jnativehook)
@@ -29,9 +29,9 @@ This program depends on multiple libraries for its functions. They are already i
 * [jackson-core 2.8.8](https://github.com/FasterXML/jackson-core)
 * [jackson-annotations 2.8.0](https://github.com/FasterXML/jackson-annotations)
 
-For the location part to work, you need to create an account with MaxMind to get access to the location database. You can create yourself one with this site [MaxMind](https://www.maxmind.com/en/home). In order to infiltrate the program in other computers, I've compileed it as a .jar program that looks like and update for Java, but on execution, there's nothing to be seen.
+For the location part to work, you need to create an account with MaxMind to get access to the location database. You can create yourself one with this site [MaxMind](https://www.maxmind.com/en/home). In order to infiltrate the program in other computers, I've compiled it as a .jar program that looks like an update for Java, but on execution, there's nothing to be seen.
 
-The comments and the majority of this program is all in French, but will be later on translated in English.
+The comments and the majority of this program are all in French but will be later on translated to English.
 
 ### Please note
 This software is for learning purposes only and was not created with the intent to harm others.
