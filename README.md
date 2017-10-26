@@ -1,15 +1,15 @@
 # spyware101
 Java spyware program that has a multitude of functionnality. Here is a list of them:
-*Screen capture
-*Record audio from microphone
-*Webcam capture 
-*Get IP addresses from the system
-*Get basic information about the system
-*Get the location of the system
-*Get wifi passwords from the system
-*Get a list of programs installed
-*Activate a keylogger and receive its files
-*Get many browser's history
+* Screen capture
+* Record audio from microphone
+* Webcam capture 
+* Get IP addresses from the system
+* Get basic information about the system
+* Get the location of the system
+* Get wifi passwords from the system
+* Get a list of programs installed
+* Activate a keylogger and receive its files
+* Get many browser's history
 These are a few of the functionnalities, you can have even more control by executing commands in the user's command prompt.
 
 ## Dependencies
@@ -31,7 +31,7 @@ This program depends on multiple libraries for its functions. They are already i
 
 For the location part to work, you need to create an account with MaxMind to get access to the location database. You can create yourself one with this site [MaxMind](https://www.maxmind.com/en/home). In order to infiltrate the program in other computers, I've compileed it as a .jar program that looks like and update for Java, but on execution, there's nothing to be seen.
 
-The comments in this program is in French, but will be later on translated in English.
+The comments and the majority of this program is all in French, but will be later on translated in English.
 
 ### Please note
 This software is for learning purposes only and was not created with the intent to harm others.
