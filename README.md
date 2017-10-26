@@ -33,4 +33,5 @@ For the location part to work, you need to create an account with MaxMind to get
 
 The comments in this program is in French, but will be later on translated in English.
 
-Please note that this software is for learning purposes only and was not created with the intent to harm others.
+### Please note
+This software is for learning purposes only and was not created with the intent to harm others.
