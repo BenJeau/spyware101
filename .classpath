@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="webcam-capture-0.3.12-20161206.184756-3.jar"/>
+	<classpathentry kind="lib" path="jnativehook-2.1.0.jar"/>
+	<classpathentry kind="lib" path="bridj-0.6.2.jar"/>
+	<classpathentry kind="lib" path="junit-4.1.jar"/>
+	<classpathentry kind="lib" path="slf4j-jdk14-1.7.25.jar"/>
+	<classpathentry kind="lib" path="slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="geoip2-2.9.0.jar" sourcepath="geoip2-2.9.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/Virus/geoip2-2.9.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="geoip2-2.9.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="geoip2-2.9.0-sources.jar"/>
+	<classpathentry kind="lib" path="httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="jackson-annotations-2.8.0.jar"/>
+	<classpathentry kind="lib" path="jackson-core-2.8.8.jar"/>
+	<classpathentry kind="lib" path="jackson-databind-2.8.8.1.jar"/>
+	<classpathentry kind="lib" path="maxmind-db-1.2.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
