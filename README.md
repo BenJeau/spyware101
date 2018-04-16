@@ -1,4 +1,4 @@
-# spyware101
+# Spyware101
 Java spyware program that has a multitude of functionality. Here is a list of them:
 * Screen capture
 * Record audio from microphone
