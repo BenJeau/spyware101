@@ -10,6 +10,7 @@ Java spyware program that has a multitude of functionality. Here is a list of th
 * Get a list of programs installed
 * Activate a keylogger and receive its files
 * Get many browser's histories
+
 These are a few of the functionalities, you can have even more control by executing commands in the user's command prompt.
 
 ## Dependencies
